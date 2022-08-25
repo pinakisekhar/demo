@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-hi motherfucker
-hello
-hola
-=======
-hello pinaki baby
->>>>>>> demo2
+hi
+
