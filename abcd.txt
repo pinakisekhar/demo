@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-hi motherfucker
-hello
+This is demo2 branch
+
 hola
-=======
-hello pinaki baby
->>>>>>> demo2
